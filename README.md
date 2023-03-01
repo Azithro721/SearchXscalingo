@@ -14,6 +14,10 @@ SearchX is a multipurpose Telegram bot written in Python for Google Drive
 </p>
 
 
+[![Deploy on Scalingo](https://cdn.scalingo.com/deploy/button.svg)](https://my.scalingo.com/deploy?source=https://github.com/tiararosebiezetta/SearchX#main)
+</p>
+
+
 ## Features
 
 - Search data in Google Drive
